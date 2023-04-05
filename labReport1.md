@@ -7,4 +7,8 @@
 6. *Additional step for Windows users only:* You will need to downlaod [git](https://gitforwindows.org/) in order to get started. [Here](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) is a helpful link on how to use bash on windows. 
 7. When you've opened the terminal, you will want to enter the following into your terminal but you will need to replace the 'zz' before the @ with your unique username. The $ does not need to be included.     
 ``` $ ssh cs15lsp23zz@ieng6.ucsd.edu ```
-
+8. You should get a message like the following. Reply Yes. 
+``` ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? ```
