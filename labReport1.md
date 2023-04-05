@@ -4,3 +4,5 @@
 3. When you've done that, you'll need to download VSCode on your device. To download [VSCode](https://code.visualstudio.com/), follow the instructions on the site to download the latest version. 
 4. Once you finish downloading VSCode and you open the app on your device it should look something like this. ![Image](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/getstarted_page.png) Make sure you are downloading the one that is compatible with your device. 
 5. Next, you're going to want to open a terminal on VSC by doing *Ctrl or Command + `* or you can use menu option at the top where it says Terminal and navigate to the New Terminal option.
+6. *Additional step for Windows users only:* You will need to downlaod [git](https://gitforwindows.org/) in order to get started. [Here](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) is a helpful link on how to use bash on windows. 
+7. 
