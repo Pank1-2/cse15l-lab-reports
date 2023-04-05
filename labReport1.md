@@ -8,10 +8,11 @@
 7. When you've opened the terminal, you will want to enter the following into your terminal but you will need to replace the 'zz' before the @ with your unique username. The $ does not need to be included.     
 ``` $ ssh cs15lsp23zz@ieng6.ucsd.edu ```
 
-8. You should get a message like the following. Reply Yes. 
+8. You should get a message like the following. Reply Yes and enter your password when prompted.
 ``` ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])?
+Are you sure you want to continue connecting (yes/no/[fingerprint])?```
 
+9.
 
