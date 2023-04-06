@@ -39,6 +39,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 ```
+# *insert image*
 
 10. When you are connected to the CSE server, you can test some of the following commands in the terminal.
 * ```cd ~ ```
@@ -48,3 +49,4 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 * ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is someone elses' username
 * ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/```
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt```
+# *insert image*
