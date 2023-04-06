@@ -7,9 +7,8 @@
 
 3. When you've done that, you'll need to download VSCode on your device. To download [VSCode](https://code.visualstudio.com/), follow the instructions on the site to download the latest version. 
 
-4. Once you finish downloading VSCode and you open the app on your device it should look something like this. <img src="https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/getstarted_page.png" width="750" height="500"> 
+4. Once you finish downloading VSCode and you open the app on your device it should look something like this. Make sure you are downloading the one that is compatible with your device. <img src="https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/getstarted_page.png" width="750" height="500"> 
 
-Make sure you are downloading the one that is compatible with your device. 
 
 5. Next, you're going to want to open a terminal on VSC by doing *Ctrl or Command + `* or you can use menu option at the top where it says Terminal and navigate to the New Terminal option.
 
@@ -41,7 +40,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 ```
-![Image](0E5QU1d7g8IkmS0eifkEPmvOnwAJab6ZlybG8XEn0Hk5VvJ7mn8khByx0Of-yIta2Ixq0xS3REXrgQuRGvlJMxlKQKeZywL0iJUnC9RilFjEy9qhK2Ffrhyqytaw.png)
+<img src = "0E5QU1d7g8IkmS0eifkEPmvOnwAJab6ZlybG8XEn0Hk5VvJ7mn8khByx0Of-yIta2Ixq0xS3REXrgQuRGvlJMxlKQKeZywL0iJUnC9RilFjEy9qhK2Ffrhyqytaw.png" width = '800' height ='800' >
 
 10. When you are connected to the CSE server, you can test some of the following commands in the terminal.
 * ```cd ~ ```
