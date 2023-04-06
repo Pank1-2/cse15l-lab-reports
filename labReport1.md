@@ -40,4 +40,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 ```
 
-10. 
+10. When you are connected to the CSE server, you can test some of the following commands in the terminal.
+* ```cd ~ ```
+* ```cd ```
+* ```ls -lat ```
