@@ -39,7 +39,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 ```
-# *insert image*
+![Image](0E5QU1d7g8IkmS0eifkEPmvOnwAJab6ZlybG8XEn0Hk5VvJ7mn8khByx0Of-yIta2Ixq0xS3REXrgQuRGvlJMxlKQKeZywL0iJUnC9RilFjEy9qhK2Ffrhyqytaw.png)
 
 10. When you are connected to the CSE server, you can test some of the following commands in the terminal.
 * ```cd ~ ```
