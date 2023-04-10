@@ -51,6 +51,6 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 * ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/```
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt```
 ![Image](total 112.png)
-<img scr = "total 112.png" width ='600' height='500'>
+<img scr = "0E5QU1d7g8IkmS0eifkEPmvOnwAJab6ZlybG8XEn0Hk5VvJ7mn8khByx0Of-yIta2Ixq0xS3REXrgQuRGvlJMxlKQKeZywL0iJUnC9RilFjEy9qhK2Ffrhyqytaw.png" width ='600' height='500'>
 
 11. Now you know how to log into a course specific account on ```ieng6```! To exit the remote server in terminal you can either type ```exit``` in terminal or do Ctrl-D.
