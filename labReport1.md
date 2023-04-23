@@ -43,12 +43,12 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 <img src = "0E5QU1d7g8IkmS0eifkEPmvOnwAJab6ZlybG8XEn0Hk5VvJ7mn8khByx0Of-yIta2Ixq0xS3REXrgQuRGvlJMxlKQKeZywL0iJUnC9RilFjEy9qhK2Ffrhyqytaw.png" width = '600' height ='500' >
 
 10. When you are connected to the CSE server, you can test some of the following commands in the terminal.
-* ```cd ~ ``` 
+* ```cd ~ ``` Changes to home directory. 
 * ```cd ``` "Change Directory" - used to switch the current working directory to the given path. 
-* ```ls -lat ```
-* ```ls -a```
+* ```ls -lat ``` Lists content directory. 
+* ```ls -a```Shows all the files in the current directory. 
 * ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is someone elses' username
-* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/```
+* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` Lists content directory of user. 
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` Prints the contents of one or more files given by the paths.
 
 
