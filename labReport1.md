@@ -51,7 +51,7 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 * ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` Copies directory. 
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` Prints the contents of one or more files given by the paths.
 
-
+Below is an example of how your terminal should look when testing out some of these commands! 
 <img src = "total 112.png" width = '600' height ='400' >
 
 11. Now you know how to log into a course specific account on ```ieng6```! To exit the remote server in terminal you can either type ```exit``` in terminal or do Ctrl-D.
