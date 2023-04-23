@@ -47,8 +47,8 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 * ```cd ``` "Change Directory" - used to switch the current working directory to the given path. 
 * ```ls -lat ``` Lists content directory. 
 * ```ls -a```Shows all the files in the current directory. 
-* ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is someone elses' username
-* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` Lists content directory of user. 
+* ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is someone elses' username. This lists content directory of user. 
+* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` Copies directory. 
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` Prints the contents of one or more files given by the paths.
 
 
